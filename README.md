@@ -27,6 +27,7 @@ Examples:
 - **MyShelf Website** - A personal book management app built with Firebase and external APIs.
 - **Raspberry Folder** - Some projects I've made with my raspberry pi pico. For example a sensor for my door calculating if something has been taken/ given depending on how long the person was in the room, and a plant sensor 
 - **Issue Tracker** - A back-end logic implementation of a ticket management system featuring a robust filtering engine and automated parent-child re-assignment. Built with a focus on standard library constraints, the project demonstrates clean data modeling and efficient state management without the use of external dependencies.
+- **Cinema Concurrency Simulator** - A multi-threaded simulation of a movie theater ticket office. It manages multiple concurrent ticket booths (threads) accessing a shared seating inventory, ensuring thread safety and preventing race conditions during high-volume transactions.
 
 ---
 
