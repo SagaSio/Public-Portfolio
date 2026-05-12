@@ -1,0 +1,55 @@
+# Portfolio — Saga Siösteen
+
+Welcome to my GitHub portfolio!  
+Here I’ve gathered a mix of my favorite **reports** and **code projects** from my studies and personal work.  
+
+To respect academic integrity and corporate NDAs, many of my source code repositories are set to Private. If you are a recruiter or collaborator and would like to review the source code for a specific project, please contact me for access (saga.siosteen@gmail.com).
+
+---
+
+## Folder Overview
+
+### `/papers/`
+A selection of academic reports and essays that I’m most proud of.  
+
+Examples:
+- **Cognitive Commerce in the Fashion Industry** — Explores how AI and cognitive commerce are transforming the U.S. fashion industry. Uses the Multi-Level Perspective (MLP) framework to show how innovations like chatbots, virtual try-ons, and personalized recommendations are reshaping businesses, customer experience, and industry trends, while highlighting ethical and regulatory challenges.
+
+- **Crumbl Cookies** — Analyzes how Crumbl became the fastest-growing U.S. cookie franchise by leveraging brand personality, STP marketing, and social media engagement rather than radical product innovation. Highlights how the company creates an experience-driven brand with rotating menus, visually appealing packaging, and digital interaction, while discussing challenges such as ethical sourcing, sustainability, and reliance on social media hype.
+
+---
+
+### `/projects/`
+A collection of coding projects — from university assignments to experiments I’ve done in my free time.
+
+Examples:
+- **Godot Mini Game** — 2D game exploring game logic, interactivity, and pixel art with Aseprite. Press L to use the lantern! [**Play it here!**](https://SagaSio.github.io/Portfolio/)
+- **MyShelf Website** - A personal book management app built with Firebase and external APIs.
+- **Raspberry Folder** - Some projects I've made with my raspberry pi pico. For example a sensor for my door calculating if something has been taken/ given depending on how long the person was in the room, and a plant sensor 
+- **Issue Tracker** - A back-end logic implementation of a ticket management system featuring a robust filtering engine and automated parent-child re-assignment. Built with a focus on standard library constraints, the project demonstrates clean data modeling and efficient state management without the use of external dependencies.
+
+---
+
+## Tech & Tools
+- **Languages:** Python, Java, C, GDScript (Godot), JavaScript and a bit of SQL
+- **Tools:** Git, Godot, Aseprite, React, React Native, Firebase
+
+---
+
+## About Me
+I’m currently in my **fifth and final year** of studying to become a **Computer Science Engineer** with a **Master’s in Industrial Management** at **KTH Royal Institute of Technology** in Stockholm.
+
+I’ve also spent a semester studying abroad in **Texas**, which taught me a lot about collaboration, independence, and adapting to new environments.
+
+---
+
+## Contact
+If you’d like to connect, feel free to reach out!
+
+Saga Siösteen
+saga.siosteen@gmail.com
+LinkedIn: https://www.linkedin.com/in/saga-si%C3%B6steen-707614239/  
+
+---
+
+
