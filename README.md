@@ -23,7 +23,8 @@ Examples:
 A collection of coding projects — from university assignments to experiments I’ve done in my free time.
 
 Examples:
-- **Godot Mini Game** — 2D game exploring game logic, interactivity, and pixel art with Aseprite. 
+- **Godot Mini Game** — 2D game exploring game logic, interactivity, and pixel art with Aseprite.
+- **Flower Picking Game** - A 2D top-down exploration game built in Godot 4, featuring a dynamic weather system, custom UI layers, and a complete "collect-and-sell" gameplay loop. Experience a relaxing environment with integrated audio management and a smooth, notebook-style quest tracker.
 - **MyShelf Website** - A personal book management app built with Firebase and external APIs.
 - **Raspberry Folder** - Some projects I've made with my raspberry pi pico. For example a sensor for my door calculating if something has been taken/ given depending on how long the person was in the room, and a plant sensor 
 - **Issue Tracker** - A back-end logic implementation of a ticket management system featuring a robust filtering engine and automated parent-child re-assignment. Built with a focus on standard library constraints, the project demonstrates clean data modeling and efficient state management without the use of external dependencies.
